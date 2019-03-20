@@ -4,4 +4,4 @@ from principal import dividir,multiplicar
 
 def test_dividir():
     assert dividir(2,10)==5
-    assert multiplicar(2,4)=8
+    assert multiplicar(2,4)==8
